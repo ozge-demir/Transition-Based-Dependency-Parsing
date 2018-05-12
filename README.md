@@ -1,4 +1,4 @@
-# Koç University Dependency Parser 
+# Transition Based Dependency Parsing
 
 In our engineering senior project, me (Özge Demir) and my senior project teammate Cansın Sapmaz are contributing to our university's dependency parser implementation. Further explanation is excerpted from our project advisor [Ömer Kırnap](https://github.com/kirnap/) repository. Also, overall this project is participant of [Conll18 Shared Task](http://universaldependencies.org/conll18/).
 
