@@ -1,4 +1,7 @@
 # Koç University Dependency Parser 
+
+In our engineering senior project, me (Özge Demir) and my senior project teammate Cansın Sapmaz are contributing to our university's dependency parser implementation. Further explanation is excerpted from our project advisor's [Ömer Kırnap]  github repository (https://github.com/kirnap/).
+
 Dependency parser implementation used by [Koç University](https://www.ku.edu.tr) team in [Conll17 shared task](http://universaldependencies.org/conll17/). Our team ranked 7th as posted in the [results](http://universaldependencies.org/conll17/results.html).
 
 ## Getting started 
@@ -66,7 +69,4 @@ julia main.jl --load '/path/to/pre-trained language model' --datafiles 'path/to/
 For more detailed options, run:
 ```sh
 julia main.jl --help
-```
-
-## Additional help
-For more help, you are welcome to [open an issue](https://github.com/kirnap/ku-dependency-parser/issues/new), or directly contact [okirnap@ku.edu.tr](mailto:okirnap@ku.edu.tr).
+``
