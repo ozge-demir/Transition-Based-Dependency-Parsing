@@ -1,6 +1,6 @@
 # Koç University Dependency Parser 
 
-In our engineering senior project, me (Özge Demir) and my senior project teammate Cansın Sapmaz are contributing to our university's dependency parser implementation. Further explanation is excerpted from our project advisor [Ömer Kırnap](https://github.com/kirnap/) repository .
+In our engineering senior project, me (Özge Demir) and my senior project teammate Cansın Sapmaz are contributing to our university's dependency parser implementation. Further explanation is excerpted from our project advisor [Ömer Kırnap](https://github.com/kirnap/) repository. Also, overall this project is still participant of [Conll18 Shared Task](http://universaldependencies.org/conll18/).
 
 Dependency parser implementation used by [Koç University](https://www.ku.edu.tr) team in [Conll17 shared task](http://universaldependencies.org/conll17/). Our team ranked 7th as posted in the [results](http://universaldependencies.org/conll17/results.html).
 
